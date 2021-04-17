@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Nallore Vattam app!" />
+        <Header title="Welcome to sample application!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
